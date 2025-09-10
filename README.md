@@ -21,3 +21,11 @@
 符号位为1，右移，高位补1
 符号位为0，右移，高位补0
 所以右移31位，结果为全0或全1，再加1，结果为1或0
+### howManyBits
+todo
+### floatScale2
+todo
+### floatFloat2Int
+todo
+### floatPower2
+todo
